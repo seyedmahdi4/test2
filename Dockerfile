@@ -1,1 +1,1 @@
-FROM ubuntu:latest
+FROM docker-proxy.rso-co.ir/ubuntu:latest
