@@ -1,1 +1,1 @@
-FROM docker-proxy.rso-co.ir/ubuntu:latest
+FROM nginx:alpine
