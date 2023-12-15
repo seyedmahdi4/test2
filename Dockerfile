@@ -1,1 +1,1 @@
-FROM nginx:alpine
+FROM hub.hamdocker.ir/nginx:alpine
